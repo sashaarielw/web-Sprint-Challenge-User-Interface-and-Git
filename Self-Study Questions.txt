@@ -1,0 +1,9 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say? Semantic HTML is more specific. This makes it easier for people and machines to read and understand it. 
+
+Name two big differences between display: block; and display: inline;. Block level items create a new line. Inline, do not create a new line, they stay "in line"
+
+What are the 4 areas of the box model? Margin, Padding, Border and Content. 
+
+While using flexbox, what axis does the following property work on: align-items: center? Cross-Axis
+
+Explain why git is valuable to a team of developers. Git is valuable to a team of developers for a couple of reasons. Overall, it makes it easier for the team to collaborate on projects. Multiple team members can work on the same code, at the same time. After code is developed, pieces of each code can be taken to implement or you can compare the individuals code. 
